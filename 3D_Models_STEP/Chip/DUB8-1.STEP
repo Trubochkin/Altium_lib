@@ -1,0 +1,17 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('User Library-DUB8-1.STEP',
+    '2013-05-24T11:07:39',
+    ( 'Windows User' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2013',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+ENDSEC;
+END-ISO-10303-21;
